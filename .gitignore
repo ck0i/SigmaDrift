@@ -1,0 +1,24 @@
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.iobj
+*.ipdb
+*.exe
+*.ilk
+*.log
+*.user
+*.tlog
+*.ipch
+*.db
+*.suo
+*.opendb
+*.VC.db
+*.vcxproj.user
+MouseMov.*/
+SigmaDri.*/
+trajectory_*.csv
+uc_post.txt
+Mouse Movement Humanization Algorithms.md
