@@ -69,10 +69,6 @@ Bottom panel shows velocity profile graphs for all trajectories overlaid.
 
 Visual Studio 2022 with C++20. Open `SigmaDrift.slnx`, build x64 Release.
 
-## Research
-
-`Mouse Movement Humanization Algorithms.md` contains the full literature survey covering WindMouse, Ornstein-Uhlenbeck, Bezier curves, sigma-lognormal, minimum-jerk, VITE, E-LQG optimal control, Costello's Surge, GANs, and diffusion models.
-
 ## References
 
 - Plamondon — Kinematic Theory of Rapid Human Movements
