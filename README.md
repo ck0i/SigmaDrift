@@ -2,7 +2,7 @@
 
 A biomechanically-grounded mouse movement algorithm that outperforms WindMouse across every metric that matters for human-like trajectory generation.
 
-Built for a PhD thesis on novel mouse movement humanization techniques.
+Built for my PhD research on novel mouse movement humanization techniques.
 
 ## What it does
 
